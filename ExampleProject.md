@@ -1,4 +1,4 @@
-Project Name: [The name of your project](The url of the repository)
+Project Name: [Forecasting S&P 500 returns using macroeconomic data]()
 
 Project type: Data analysis/Algorithm development/Theoretical project
 
