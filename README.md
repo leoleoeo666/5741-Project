@@ -1,7 +1,7 @@
-Project Name: [Forecasting S&P 500 returns using macroeconomic data]()
+Project Name: [Forecasting S&P 500 returns using macroeconomic data](https://github.com/leoleoeo666/5741-Project.git)
 
-Project type: Data analysis/Algorithm development/Theoretical project
+Project type: Data analysis
 
-Group Members: Name (NetID), Name (NetID), Name (NetID)
+Group Members: Purvesh Jain(pj268), Songyan Xu(sx274)
 
-Course code: 4741/5741
+Course code: 5741
